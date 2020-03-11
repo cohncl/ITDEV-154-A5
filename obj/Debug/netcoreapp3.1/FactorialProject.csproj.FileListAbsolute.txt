@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.exe
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.deps.json
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.dll
+C:\Users\Neil Michaels\source\repos\FactorialProject\bin\Debug\netcoreapp3.1\FactorialProject.pdb
+C:\Users\Neil Michaels\source\repos\FactorialProject\obj\Debug\netcoreapp3.1\FactorialProject.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\FactorialProject\obj\Debug\netcoreapp3.1\FactorialProject.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\FactorialProject\obj\Debug\netcoreapp3.1\FactorialProject.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\FactorialProject\obj\Debug\netcoreapp3.1\FactorialProject.dll
+C:\Users\Neil Michaels\source\repos\FactorialProject\obj\Debug\netcoreapp3.1\FactorialProject.pdb
